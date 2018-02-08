@@ -1,4 +1,4 @@
-## Battleship
+# Battleship
 Battleship project for CS372
 
 Your assignment for Project 1 is fairly open ended. The overall goal is to implement Battleship. Along the way you will get experience in agile project planning, requirements, pair programming, TDD, source code control, software design, and writing clean code. Throughout the project you will be wearing two hats, as you will be both the Project Owner and the Developers. I expect your total time investment in this project to be around 15 hours each (outside of class time), but I would be delighted if you had so much fun you did more.
@@ -15,14 +15,14 @@ While you are working on this project I would like each member of the team to ke
 
 Deliverables:
 
-#Friday, February 9
-Version control URL
-Initial Requirements (prioritized User Stories with difficulties)
-Initial Design (2-3 minute presentation, very vague is fine, slides are not necessary but you may use them if you like.)
-Some Diary entries.
+## Friday, February 9
+*Version control URL
+*Initial Requirements (prioritized User Stories with difficulties)
+*Initial Design (2-3 minute presentation, very vague is fine, slides are not necessary but you may use them if you like.)
+*Some Diary entries.
 
-#Monday, February 19?
-TBD - some sort of demo
+## Monday, February 19?
+* TBD - some sort of demo
 
 #Wednesday, February 28
 Working code
