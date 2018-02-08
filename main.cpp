@@ -4,7 +4,6 @@
 //
 //  Created by Chris McClure on 2/7/18.
 //  Copyright © 2018 Chris McClure & AJ Carvajal. All rights reserved.
-// adding a comment here
 
 #include <stdio.h>
 #include <iostream>
