@@ -16,15 +16,15 @@ While you are working on this project I would like each member of the team to ke
 Deliverables:
 
 ## Friday, February 9
-*Version control URL
-*Initial Requirements (prioritized User Stories with difficulties)
-*Initial Design (2-3 minute presentation, very vague is fine, slides are not necessary but you may use them if you like.)
-*Some Diary entries.
+* Version control URL
+* Initial Requirements (prioritized User Stories with difficulties)
+* Initial Design (2-3 minute presentation, very vague is fine, slides are not necessary but you may use them if you like.)
+* Some Diary entries.
 
 ## Monday, February 19?
 * TBD - some sort of demo
 
-#Wednesday, February 28
-Working code
-All Diary entries
-Final project presentation
+## Wednesday, February 28
+* 8Working code
+* All Diary entries
+* Final project presentation
