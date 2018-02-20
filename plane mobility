@@ -1,0 +1,19 @@
+    sf::Texture planeImage;
+    planeImage.setSmooth(true);
+    if(!planeImage.loadFromFile(resourcePath() + "paper-plane2.png")){
+        return EXIT_FAILURE;
+    }
+    
+    sf::Vector2u plane_size = planeImage.getSize();
+    sf::Sprite plane(planeImage);
+    plane.setOrigin(0, plane.getTexture()->getSize().y);
+    plane.rotate(132.5f);
+    plane.scale(0.65f, 0.65f);
+    plane.setPosition(sf::Vector2f(-100, 100));
+    
+    
+    //put this in loop
+        if(sf::Mouse::isButtonPressed(sf::Mouse::Button::Left)){
+                plane.setPosition(sf::Vector2f(sf::Mouse::getPosition(App).x, App.getSize().y+10));
+        }
+        plane.move(sf::Vector2f(0, -30.5));
